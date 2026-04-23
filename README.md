@@ -65,5 +65,5 @@ According to the paper, L0Soft performs competitively against several baseline s
 
 - MATLAB
 
-The repository is minimal and uses standard MATLAB operations. No external toolbox is explicitly required in the current code.
+The repository is minimal and uses standard MATLAB operations. No external toolbox is required in the code.
 
