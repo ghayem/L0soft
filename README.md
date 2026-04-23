@@ -67,3 +67,18 @@ According to the paper, L0Soft performs competitively against several baseline s
 
 The repository is minimal and uses standard MATLAB operations. No external toolbox is required in the code.
 
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{sadeghi2019losoft,
+  title={LOSoft: ℓ 0 Minimization via Soft Thresholding},
+  author={Sadeghi, Mostafa and Ghayem, Fateme and Babaie-Zadeh, Massoud and Chatterjee, Saikat and Skoglund, Mikael and Jutten, Christian},
+  booktitle={2019 27th European Signal Processing Conference (EUSIPCO)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
+}
+```
+
